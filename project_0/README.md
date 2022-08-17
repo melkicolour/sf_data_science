@@ -10,6 +10,7 @@
 [4. Этапы работы над проектом](https://github.com/melkicolour/sf_data_science/tree/main/project_0#Этапы-работы-над-проектом)
 
 [5. Результат](https://github.com/melkicolour/sf_data_science/tree/main/project_0#Результат)
+
 [6. Выводы](https://github.com/melkicolour/sf_data_science/tree/main/project_0#Выводы)
 
 ### Описание проекта
